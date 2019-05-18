@@ -617,7 +617,7 @@
 				TargetAttributes = {
 					188E051E1F14BC2000BF4345 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = KFSKA2NQKM;
+						DevelopmentTeam = 4YSKLW38HT;
 						ProvisioningStyle = Automatic;
 					};
 					188E05371F14BC2100BF4345 = {
@@ -637,6 +637,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -845,7 +846,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KFSKA2NQKM;
+				DEVELOPMENT_TEAM = 4YSKLW38HT;
 				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/video_player_pro/FFmpeg/include";
 				INFOPLIST_FILE = video_player_pro/Info.plist;
@@ -864,7 +865,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KFSKA2NQKM;
+				DEVELOPMENT_TEAM = 4YSKLW38HT;
 				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/video_player_pro/FFmpeg/include";
 				INFOPLIST_FILE = video_player_pro/Info.plist;
